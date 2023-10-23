@@ -1,0 +1,2 @@
+Đề bài: Viết chương trình đọc nội dung từ file text và hiển thị các từ trùng lặp trong file đó.
+
